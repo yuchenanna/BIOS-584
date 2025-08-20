@@ -1,2 +1,2 @@
-# bios-584-sample-repo
-a sample repository for teaching purposes
+# BIOS-584: Python Programming (Non-BIOS)
+
