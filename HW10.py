@@ -241,6 +241,9 @@ print(svm_frt_accuracy)
 
 # Step 5: Summary
 # Which method performs the best? Why?
+#logistic regression:[0.66666667 0.92592593 0.92592593 1.        ]
+#LDA: [0.7037037  0.85185185 0.92592593 0.96296296]
+#support vector machine: [0.62962963 0.92592593 0.92592593 0.96296296]
 #Logistic regression performs best overall, because although SVM has the highest accuracy on the training set,
 # logistic regression achieves the highest character-level accuracy on the independent FRT test data,
 # indicating slightly better generalization and less overfitting.
